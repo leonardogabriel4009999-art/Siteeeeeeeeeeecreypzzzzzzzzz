@@ -1,0 +1,23 @@
+{
+  "name": "comandos",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000o\u0000m\u0000a\u0000n\u0000d\u0000o\u0000s\u0000-\u0000I\u0000n\u0000f\u0000o\u0000P\u0000u\u0000l\u0000s\u0000e\u0000b\u0000r\u0000b\u0000o\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splexdev/comandos-InfoPulsebrbot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/splexdev/comandos-InfoPulsebrbot/issues"
+  },
+  "homepage": "https://github.com/splexdev/comandos-InfoPulsebrbot#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
